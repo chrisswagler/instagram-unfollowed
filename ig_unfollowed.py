@@ -6,8 +6,9 @@ import instaloader
 L = instaloader.Instaloader()
 
 #login - change login credentials
-USERNAME = 'ig_username'
-PASSWORD = 'ig_password'
+USERNAME = input('username:')
+PASSWORD = input('password:')
+print('loading...')
 L.login(USERNAME, PASSWORD)
 
 #obtain my profile using _USERNAME_

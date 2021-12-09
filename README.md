@@ -1,2 +1,2 @@
 # instagram-unfollowed
-These scripts were written using the [instaloader](https://github.com/instaloader/instaloader) module as a way to determine which Instagram followees are no longer followers. ig_unfollowed uses two lists for the followers and followees, whereas in ig_unfollowed2, I messed around with dictionaries to see if there were other ways to make the code more flexible. Nothing too serious, just was curious and wanted to try stuff out for this project as a whole.
+These scripts were written using the [instaloader](https://github.com/instaloader/instaloader) module as a way to determine which Instagram followees are no longer followers. Nothing too serious, just was curious and wanted to try stuff out for this project as a whole.
